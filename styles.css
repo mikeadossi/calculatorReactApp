@@ -1,0 +1,18 @@
+.calculatorContainer{
+  background-color: lightgrey;
+  text-align:center;
+  width:8.1em;
+  padding:0.5em;
+}
+
+.screen{
+  background-color:white;
+  border:1px solid grey;
+  display:block; 
+}
+
+.subScreen{
+  background-color:skyblue;
+  border:1px solid grey;
+  display:block;
+}
