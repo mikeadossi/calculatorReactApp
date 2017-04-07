@@ -8,6 +8,7 @@ A simple React app hacked together in a few hours by [Mike](https://github.com/m
 In your cloned directory of the project run the following in your CLI:
 
 ```
+$ npm start
 $ webpack
 $ webpack-dev-server --watch
 
